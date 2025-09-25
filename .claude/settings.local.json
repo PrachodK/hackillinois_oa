@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(del \"C:\\Users\\prach\\Desktop\\HackIllinois Web OA\\hackillinois-schedule\\tailwind.config.ts\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
